@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend (website)
+website/node_modules/
+website/build/
+website/.env
+
+# OS / IDE
+.DS_Store
+.vscode/
